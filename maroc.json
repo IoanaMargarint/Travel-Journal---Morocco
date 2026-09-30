@@ -1,0 +1,30 @@
+[
+  {
+    "id": "chefchaouen",
+    "nume": "Chefchaouen - Orașul Albastru",
+    "descriere": "Chefchaouen este un oraș montan de o frumusețe ireală, situat în Munții Rif. Este faimos în întreaga lume pentru Medina sa pictată integral în nuanțe de albastru.",
+    "detaliu": "Acest albastru, introdus de refugiații evrei, simbolizează cerul și spiritualitatea.",
+    "imagine": "poza1.jpeg"
+  },
+  {
+    "id": "fes",
+    "nume": "Fes - Inima Culturală",
+    "descriere": "Fes este cunoscut drept capitala spirituală și culturală a Marocului și găzduiește Fes el-Bali, cea mai veche și mai mare medină din lume fără trafic motorizat.",
+    "detaliu": "Punctul culminant este vizita la Tăbăcăriile Chouara, unde pielea este prelucrată manual.",
+    "imagine": "poza7.jpeg"
+  },
+  {
+    "id": "casablanca",
+    "nume": "Casablanca - Modernismul Maritim",
+    "descriere": "Casablanca este cel mai mare și cel mai cosmopolit oraș al Marocului. Punctul de referință absolut este Moscheea Hassan II.",
+    "detaliu": "Construită parțial deasupra Oceanului Atlantic, este o capodoperă a arhitecturii islamice.",
+    "imagine": "poza13.jpeg"
+  },
+  {
+    "id": "marrakech",
+    "nume": "Marrakech - Orașul Roșu",
+    "descriere": "Marrakech pulsează de energie. Este faimos pentru labirintul său de suq-uri și Piața Jemaa el-Fnaa.",
+    "detaliu": "Combină opulența palatelor cu forfota vieții tradiționale din piețe.",
+    "imagine": "poza19.jpeg"
+  }
+]
